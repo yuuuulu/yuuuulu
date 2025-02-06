@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: 加油吧 
 
 <!---
 yuuuulu/yuuuulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
