@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 
 - ⚡ Fun fact: 加油吧 😐😋
+-  q: how to commit everyday with perseverance?
 
 <!---
 yuuuulu/yuuuulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
