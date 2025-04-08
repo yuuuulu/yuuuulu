@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 
-- ⚡ Fun fact: 加油吧 😐😋
--  高中的心态和学习方法的纠正是大学阶段的重点，需要做改变，去寻找更好的自己。同时尽可能找到自己的擅长和喜好，最好能结合时代，笃定目标后，就全力以赴。
--  乐观来看，西浦的好处还是挺多的: 必需课程较少，自由安排学习时间容易实现---这些时间干什么是最有用的--需要读书，读自己喜欢的; 不用花那么多时间卷绩点---如何平衡精力？不求用最小的力撬动最有利于自己的东西，只求在不断努力的过程中，多学一点自己感兴趣+有用的东西--何为有用？就像我可能对数学比对编程感兴趣，但是我必须要用编程实现理论，所以我需要熟悉编程。但是，大学最重要的，感觉还是“人”，同样的，聊天是最高效的学习方法。
+- 😄 Correcting one's mindset and learning methods from high school is a key focus in college. It's necessary to make changes and seek a better version of oneself. At the same time, it's important to find one's strengths and interests, and ideally, align them with the times. Once a goal is set, one should commit fully.
+- On the bright side, there are quite a few advantages to studying at XJTLU: The required courses are relatively few, and it's easy to arrange one's study time freely—what to do with this time is most useful—reading books, especially those one likes, is a good choice. There's no need to spend so much time competing for GPA—how to balance energy? The goal is not to use the least effort to get the most advantageous things for oneself, but to learn a little more of what one is interested in and useful during the continuous effort—what is useful? For example, I might be more interested in math than in programming, but I have to use programming to implement theories, so I need to be familiar with programming. However, the most important thing in college, I feel, is still the "people." Similarly, chatting is the most efficient learning method.
 -  q: how to commit everyday with perseverance?
 -  a：Think that: if you do not keep recording, you will learn nothing in your brain since when 2 years later, you will remenber nothing.
 
