@@ -1,5 +1,5 @@
 
-- 👋👀👋 I am a thorough follower of Thomas Bayes, Pierre-Simon Laplace, Frank Ramsey, and Bruno de Finetti. I am explporing the direction of statistics that I most enjoy. 
+- 👋👀👋 I am a thorough follower of Thomas Bayes, Pierre-Simon Laplace, Frank Ramsey, and Bruno de Finetti. I am explporing the direction of statistics or probability that I most enjoy.
 - 🌱 I’m currently learning probability theory, statistical learning and usually I will record a video explanation to myself when learning something interesting--- https://www.youtube.com/watch?v=ojS5bbBTrfM is my representative vedio about math learning (content about n-dimensional ball volume calculation review).
 -  I enjoy running simulation since at this time I could stand on the perspective of the god and only god knows the real equation and the real population. Luckily, probability and statistics help humanbeings to approximate that. Good statisticians could even intuitively guess the result of the simulaition. Anyway, Prof.Persi Diacoins said that "computer simulation is replacing theorems" but the question is "how do you tell the computer to shuffle cards, which is totally the meaning of the charismatic probability and mathematics"
 - Correcting one's mindset and learning methods is a key focus in college. It's necessary to make changes and seek a better version of oneself. At the same time, it's important to find one's strengths and interests, and ideally, align them with the times. Once a goal is set, one should commit fully.
@@ -7,8 +7,11 @@
 -  现代人太关注“快速逆袭”，却忘了真正的蜕变需要与岁月同步💪。
 -  q: how to commit everyday with perseverance?
 -  a：Think that: if you do not keep recording, you will learn nothing in your brain since when 2 years later, you will remenber nothing.
--  So--Enjoy the world by statistics, analysis, equations, a pounding heart and a burning soul.
 
+-  I really enjoy chatting with people about math knowledge, reading good books about stat. and prob.. But heating doing literature review for the purpose of introduction part of paper writing (a big torture!).
+-  But only enjoying is totally not enough---"We want something more than mere theory and preaching now, though." ---Sherlock Holmes 我们不能坐而论道，必须有所作为。
+-  So--Enjoy the world by statistics, analysis, equations, a pounding heart and a burning soul.
+-  
 
 <!---
 yuuuulu/yuuuulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
