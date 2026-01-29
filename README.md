@@ -1,12 +1,4 @@
-
-
-
-
-
-
-
 <h1><b> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5dmhkZXN3bTVzMWZybml6ZjBsZ3F1MnBmbHZkbnNmNDVrYm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4UHeUnzarvUnjl0fg/giphy.gif", width="80px",/> 𝙷𝚒! 𝙸'𝚖 Yu Lu -- 卢钰 </b></h1>。
-
 - I am a thorough follower of Thomas Bayes, Pierre-Simon Laplace, Frank Ramsey, and Bruno de Finetti. I am explporing the direction of statistics or probability that I most enjoy.
 - 🌱 I’m currently learning probability theory, statistical learning and usually I will record a video explanation to myself when learning something interesting.
 -  I enjoy running simulation since at this time I could stand on the perspective of the god and only god knows the real equation and the real population. Luckily, probability and statistics help humanbeings to approximate that. Good statisticians could even intuitively guess the result of the simulaition. Anyway, Prof.Persi Diacoins said that "computer simulation is replacing theorems" but the question is "how do you tell the computer to shuffle cards, which is totally the meaning of the charismatic probability and mathematics"
@@ -26,13 +18,12 @@
 <div align="center",>
   <br>
   <a href="https://www.youtube.com/@SetSeed1230/playlists">
-  <img src="https://giphy.com/gifs/youtube-alexander-white-alexandwhite-dXrWJ48LbYL0usC58v", width="180",/> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg2bmJsZ3RqMThuZmE5cWp2MDJkZnZxcHVpbG13ejAzenNiN25ueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXrWJ48LbYL0usC58v/giphy.gif", width="180",/> 
   <a/>
   <a href="https://scholar.google.com/citations?hl=en&user=zAPA3i0AAAAJ&view_op=list_works&gmla=APjjwuYi7r8bjLWPQde-654Wo7JZ4zGVKGelIi43T8ZGG8Z_mEhpcjkYp0acfkF1iPTCgBmbOLmQBpRWBrRuHfCpDxF0A6ubOwtLf5YMQAn93fU2R3gBuMWmOUT5al1uXbxJ7VEPyq-z1ZpwwZr_IrcXXqVyszc7GCS7CLCLDS7pNTo&sciund=5609973039896850060">
   <img src="https://media.giphy.com/media/stneg6zcHqtNj2jjTw/giphy.gif", width="180",/> 
   </a>
 </div>
-
 </div>
 
 <!---
