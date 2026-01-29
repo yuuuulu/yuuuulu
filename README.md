@@ -1,4 +1,4 @@
-<img width="1192" height="360" alt="image" src="https://github.com/user-attachments/assets/708d6a0f-ee11-4f63-a9a4-1142f0a9a02c" /><h1><b> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5dmhkZXN3bTVzMWZybml6ZjBsZ3F1MnBmbHZkbnNmNDVrYm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4UHeUnzarvUnjl0fg/giphy.gif", width="80px",/> 𝙷𝚒! 𝙸'𝚖 Yu Lu -- 卢钰 </b></h1>。
+<h1><b> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5dmhkZXN3bTVzMWZybml6ZjBsZ3F1MnBmbHZkbnNmNDVrYm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4UHeUnzarvUnjl0fg/giphy.gif", width="80px",/> 𝙷𝚒! 𝙸'𝚖 Yu Lu -- 卢钰 </b></h1>。
 - 🌱 I am a thorough follower of Thomas Bayes, Pierre-Simon Laplace, Frank Ramsey, and Bruno de Finetti. I am explporing the direction of statistics that I most enjoy.
 <h2><b> <img src="https://media.giphy.com/media/X7jYaZR9uxmovsYWPR/giphy.gif", width="80px",/> Find me here </b></h2>
     
