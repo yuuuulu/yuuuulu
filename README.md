@@ -1,5 +1,7 @@
+
 <h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5dmhkZXN3bTVzMWZybml6ZjBsZ3F1MnBmbHZkbnNmNDVrYm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4UHeUnzarvUnjl0fg/giphy.gif" width="80px"/> 𝙷𝚒! 𝙸' m Yu Lu -- 卢钰
+  <a href="https://github.com/yuuuulu"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJ5dmhkZXN3bTVzMWZybml6ZjBsZ3F1MnBmbHZkbnNmNDVrYm53aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4UHeUnzarvUnjl0fg/giphy.gif" width="80px"/> </a>
+    𝙷𝚒! 𝙸' m Yu Lu -- 卢钰
 </h1>
 
 🌱 I am a thorough follower of Thomas Bayes, Pierre-Simon Laplace, Frank Ramsey, and Bruno de Finetti. I am exploring the direction of statistics that I most enjoy.
@@ -10,7 +12,8 @@ I enjoy running simulation since at this time I could stand on the perspective o
     
 <div align="center">
   <br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhsM2N0dmFtYjE0eWJmMHcxczVsOG54djhhdHUwdm9pZWRiNml6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="200px"/> 
+  <a href="https://github.com/yuuuulu">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhsM2N0dmFtYjE0eWJmMHcxczVsOG54djhhdHUwdm9pZWRiNml6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="200px"/> </a>
 </div>
 Good statisticians could even intuitively guess the result of the simulation. Anyway, Prof.Persi Diaconis said that "computer simulation is replacing theorems" but the question is "how do you tell the computer to shuffle cards, which is totally the meaning of the charismatic probability and mathematics"
 
@@ -18,7 +21,8 @@ I really enjoy chatting with people about math knowledge, reading good books abo
 
 
 <h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhlazVxemIwZXg1dGY3ZGJ2ODNkczdueDdlbWloZ2I0cnE0YjB0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJvDJvIGIVx6QSBJhg/giphy.gif" width="90px"/>
+  <a href="https://github.com/yuuuulu">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhlazVxemIwZXg1dGY3ZGJ2ODNkczdueDdlbWloZ2I0cnE0YjB0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OJvDJvIGIVx6QSBJhg/giphy.gif" width="90px"/> </a>
   Find Me Here
 </h1>
     
