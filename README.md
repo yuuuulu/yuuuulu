@@ -4,6 +4,10 @@
     𝙷𝚒! 𝙸' m Yu Lu -- 卢钰
 </h1>
 
+<div align="center">
+  <img src="./assets/biostatistics-toast.svg" width="420" alt="Yu Lu raises a biostatistics bottle; its cap becomes a coin, a Poisson CDF appears, and statistical diagrams float upward." />
+</div>
+
 🌱 I am a thorough follower of Thomas Bayes, Pierre-Simon Laplace, Frank Ramsey, and Bruno de Finetti. I am exploring the direction of statistics that I most enjoy.
   
 
